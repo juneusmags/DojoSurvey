@@ -1,0 +1,21 @@
+*{
+    font-family: Balsamiq Sans;
+}
+
+.form{
+    margin: 35px;
+    height: 400px;
+}
+#container{
+    border: 3px solid black;
+    width : 500px;
+    height: 400px;
+    margin: auto;
+}
+textarea{
+    width:400px;
+    height: 100px;
+}
+.submit{
+    margin-left:350px;
+}
